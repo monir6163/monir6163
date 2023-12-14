@@ -11,7 +11,7 @@
  <p style="align: center">
 
 
-<h3 align="center" style="font-size: 36px;">call me a <strong>javascript-lover</strong></h3>
+<h3 align="center" style="font-size: 36px;">Call me a <strong>javascript-lover</strong></h3>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F71DD5&lines=HTML+CSS+SaSS+Bootstrap;tailwindCSS+MaterialUI+StyledComponent;Javascript+Reactjs+Nextjs;Firebase+Nodejs+ExpressJs+Mongoose;JWT+Socket-io+MongoDB+Git+CPanel;Mysql+Postgresql+Prisma"></a>
