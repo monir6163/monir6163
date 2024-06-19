@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Monir Hossain</h1>
+<h1>Hi 👋, I'm Monir Hossain</h1>
 
 # 💫 About Me:
 
