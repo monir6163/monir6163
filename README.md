@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://ajkeritnews.com/](https://ajkeritnews.com/)
 
-- 💬 Ask me about **Js, React, Nextjs, Nodejs, Expressjs**
+- 💬 Ask me about **Javascript, React, Nextjs, Nodejs, Expressjs, PHP, laravel**
 
 - 📫 How to reach me **monirhossain6163@gmail.com**
 
