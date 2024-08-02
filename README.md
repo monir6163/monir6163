@@ -2,13 +2,13 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://monirhossain.vercel.app/](https://monirhossain.vercel.app/)
 
-- 📝 Get Facebook Video or Reel on [https://ajkeritnews.com/](https://fbdownhub.com/)
+- 📝 Get Facebook Video or Reel on [https://fbdownhub.com/](https://fbdownhub.com/)
 
 - 💬 Ask me about **Javascript, React, Nextjs, Nodejs, Expressjs, PHP, Laravel**
 
