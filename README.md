@@ -1,35 +1,72 @@
-<h1>Hi 👋, I'm Monir Hossain</h1>
+### Hi, glad to see you.
+#### Myself Monir, a 2.5+ years experienced full stack developer from Dhaka, Bangladesh.
+ <p style="align:center">
+  <a href="https://github.com/monir6163" align="center">
+   <img align="center" width="330" align="center" src="https://github-readme-stats.vercel.app/api?username=monir6163&hide=contribs,issues&theme=radical&hide_rank=true&count_private=true&include_all_commits=true">
+  </a>
+  <a href="https://github.com/monir6163/github-readme-stats" align="center">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=monir6163&layout=compact&theme=radical&langs_count=6" />
+  </a>
+ </p>
+ <p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monir6163&theme=radical&hide_border=true"/>
+</p>
 
-# 💫 About Me:
 
-- 🔭 I’m currently working on **MERN Stack**
+### Things I code with:
+<p>
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="bem" src="https://img.shields.io/badge/-BEM-E34F26?style=flat-square&logo=bem&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="TailwindCss" src="https://img.shields.io/badge/-TailwindCss-E34F26?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-E34F26?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="MaterialUi" src="https://img.shields.io/badge/-MaterialUi-E34F26?style=flat-square&logo=mui&logoColor=white" />
 
-- 🌱 I’m currently learning **Python**
+   <img alt="javascript" src="https://img.shields.io/badge/-javaScript-007ACC?style=flat-square&logo=javascript&logoColor=yellow" />
+   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 
-- 👨‍💻 All of my projects are available at [https://monirhossain.vercel.app/](https://monirdev.vercel.app/)
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="nextjs" src="https://img.shields.io/badge/-Nextjs-764ABC?style=flat-square&logo=nextjs&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 
-- 📝 Get Facebook Video or Reel on [https://savef.site/](https://savef.site/)
+   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+   <img alt="Expressjs" src="https://img.shields.io/badge/-Expressjs-43853d?style=flat-square&logo=Express.js&logoColor=white" />
+   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+   <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-13aa52?style=flat-square&logo=mongoose&logoColor=white" />
+   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-13aa52?style=flat-square&logo=PostgreSQL&logoColor=white" />
+   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-13aa52?style=flat-square&logo=Prisma&logoColor=white" />
+   <img alt="JWT" src="https://img.shields.io/badge/-JWT-13aa52?style=flat-square&logo=JWT&logoColor=white" />
+   <img alt="Puppeteer" src="https://img.shields.io/badge/-Puppeteer-13aa52?style=flat-square&logo=Puppeteer&logoColor=white" />
+   <img alt="firebase" src="https://img.shields.io/badge/-Firebase-F05032?style=flat-square&logo=firebase&logoColor=white" />
+   <img alt="socket" src="https://img.shields.io/badge/-Socket-F05032?style=flat-square&logo=socket&logoColor=white" />
+   <img alt="Postman" src="https://img.shields.io/badge/-Postman-F05032?style=flat-square&logo=postman&logoColor=white" />
+   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F05032?style=flat-square&logo=figma&logoColor=white" />
+   <img alt="vercel" src="https://img.shields.io/badge/-Vercel-F05032?style=flat-square&logo=vercel&logoColor=white" />
+   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+   <img alt="AWS" src="https://img.shields.io/badge/-AWS-F05032?style=flat-square&logo=vercel&logoColor=white" />
+  
+ 
+</p>
 
-- 💬 Ask me about **Javascript, React, Nextjs, Nodejs, Expressjs**
+### In my recent role as a Software engineer at iB Analytica, an USA-based company, I remotely led the development of a complex application using Typescript, Next.js, TailwindCSS, Node.js, ExpressJs, and many more. I successfully transformed Figma designs into responsive, pixel-perfect interfaces with Next.js and Tailwind CSS and also created scalable, robust api's using aws lambda and api gateway. 
+### Now, I am immediately available to be hired for fulltime or as per your project needs. Most of the time, I am available on [LinkedIn](https://linkedin.com/in/monir6163). Also, please have a look at my [resume](https://drive.google.com/file/d/1ds_lX3FHIE4h8qRAMHcKT8JwCz8LNSC0/view) or visit my [portfolio](https://babulakter.com).
 
-- 📫 How to reach me **monirhossain6163@gmail.com**
+### Send an email to <ins> monirhossain6163@gmail.com </ins> and I will reply you in a real quick.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16Tpb3dtuN6mYnlc0ehB0nWEog2wXn0L6/view](https://drive.google.com/file/d/16Tpb3dtuN6mYnlc0ehB0nWEog2wXn0L6/view)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monir6163&label=Profile%20views&color=0e75b6&style=flat" alt="monir6163 " height="28px"  />  <a href="https://twitter.com/monir6163" target="blank"><img src="https://img.shields.io/twitter/follow/monir6163?logo=twitter&style=for-the-badge" alt="monir6163" /></a>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/monirweb.wdd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/monirweb) 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=monir6163&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=monir6163&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=monir6163&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=monir6163&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+- Completed 96+ free and paid projects for worldwide clients.
+- Strong knowledge in responsive web development.
+- Strong hand on Javascript, Typescript, Reactjs, Nextjs, Expressjs, Mongoose, Prisma, PostgreSQL, MongoDb and Nodejs.
+- Very much confident in raw css and in any trending css library like tailwind, bootstrap, mui, shadcn or whatever.
+- Have depth on implementing authentication and payment system for web apps.
+- Honest, friendly, professional and concern about deadline
 
----
-[![](https://visitcount.itsvg.in/api?id=monir6163&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</br>
