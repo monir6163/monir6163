@@ -2,7 +2,7 @@
 #### Myself Monir, a 2.5+ years experienced full stack developer from Dhaka, Bangladesh.
  <p style="align:center">
   <a href="https://github.com/monir6163" align="center">
-   <img align="center" width="330" align="center" src="https://github-readme-stats.vercel.app/api?username=monir6163&hide=contribs,issues&theme=radical&hide_rank=true&count_private=true&include_all_commits=true">
+   <img align="center" width="330" align="center" src="https://github-readme-stats.vercel.app/api?username=monirhossain6163-8939&hide=contribs,issues&theme=radical&hide_rank=true&count_private=true&include_all_commits=true">
   </a>
   <a href="https://github.com/monir6163/github-readme-stats" align="center">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=monir6163&layout=compact&theme=radical&langs_count=6" />
@@ -17,7 +17,6 @@
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="bem" src="https://img.shields.io/badge/-BEM-E34F26?style=flat-square&logo=bem&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="TailwindCss" src="https://img.shields.io/badge/-TailwindCss-E34F26?style=flat-square&logo=tailwindcss&logoColor=white" />
