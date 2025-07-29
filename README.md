@@ -2,7 +2,7 @@
 #### Myself Monir, a 2.5+ years experienced full stack developer from Dhaka, Bangladesh.
  <p style="align:center">
   <a href="https://github.com/monir6163" align="center">
-   <img align="center" width="330" align="center" src="https://github-readme-stats.vercel.app/api?username=monirhossain6163-8939&hide=contribs,issues&theme=radical&hide_rank=true&count_private=true&include_all_commits=true">
+   <img align="center" width="330" align="center" src="https://github-readme-stats.vercel.app/api?username=monir6163&hide=contribs,issues&theme=radical&hide_rank=true&count_private=true&include_all_commits=true">
   </a>
   <a href="https://github.com/monir6163/github-readme-stats" align="center">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=monir6163&layout=compact&theme=radical&langs_count=6" />
@@ -50,20 +50,20 @@
  
 </p>
 
-### In my recent role as a Software engineer at iB Analytica, an USA-based company, I remotely led the development of a complex application using Typescript, Next.js, TailwindCSS, Node.js, ExpressJs, and many more. I successfully transformed Figma designs into responsive, pixel-perfect interfaces with Next.js and Tailwind CSS and also created scalable, robust api's using aws lambda and api gateway. 
-### Now, I am immediately available to be hired for fulltime or as per your project needs. Most of the time, I am available on [LinkedIn](https://linkedin.com/in/monir6163). Also, please have a look at my [resume](https://drive.google.com/file/d/1ds_lX3FHIE4h8qRAMHcKT8JwCz8LNSC0/view) or visit my [portfolio](https://babulakter.com).
+## Previously, I worked remotely at a US-based company, **GoogaMania**, where I built full-stack applications using **Next.js**, **TypeScript**, **Node.js**, and **Express.js** 
+### Now, I am immediately available to be hired for fulltime or as per your project needs. Most of the time, I am available on [LinkedIn](https://linkedin.com/in/monirweb). Also, please have a look at my [resume](https://drive.google.com/file/d/16Tpb3dtuN6mYnlc0ehB0nWEog2wXn0L6/view) or visit my [portfolio](https://monirdev.vercel.app).
 
 ### Send an email to <ins> monirhossain6163@gmail.com </ins> and I will reply you in a real quick.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monir6163&label=Profile%20views&color=0e75b6&style=flat" alt="monir6163 " height="28px"  />  <a href="https://twitter.com/monir6163" target="blank"><img src="https://img.shields.io/twitter/follow/monir6163?logo=twitter&style=for-the-badge" alt="monir6163" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monir6163&label=Profile%20views&color=0e75b6&style=flat" alt="monir6163 " height="28px"  />
 </p>
 
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- Completed 96+ free and paid projects for worldwide clients.
+- Completed 200+ free and paid projects for worldwide clients also Fiverr Marketplace.
 - Strong knowledge in responsive web development.
-- Strong hand on Javascript, Typescript, Reactjs, Nextjs, Expressjs, Mongoose, Prisma, PostgreSQL, MongoDb and Nodejs.
+- Strong hand on Javascript, Typescript, Reactjs, Nextjs, Expressjs, Mongoose, Prisma, PostgreSQL, MongoDb and Nodejs, NestJs.
 - Very much confident in raw css and in any trending css library like tailwind, bootstrap, mui, shadcn or whatever.
 - Have depth on implementing authentication and payment system for web apps.
 - Honest, friendly, professional and concern about deadline
