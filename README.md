@@ -1,71 +1,78 @@
-### Hi, glad to see you.
-#### Myself Monir, a 2.5+ years experienced full stack developer from Dhaka, Bangladesh.
- <p style="align:center">
-  <a href="https://github.com/monir6163" align="center">
-   <img align="center" width="330" align="center" src="https://github-readme-stats.vercel.app/api?username=monir6163&hide=contribs,issues&theme=radical&hide_rank=true&count_private=true&include_all_commits=true">
-  </a>
-  <a href="https://github.com/monir6163/github-readme-stats" align="center">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=monir6163&layout=compact&theme=radical&langs_count=6" />
-  </a>
- </p>
- <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monir6163&theme=radical&hide_border=true"/>
-</p>
+<div align="center">
+  <img src="https://res.cloudinary.com/ddxqljriw/image/upload/v1764047449/Monir_Hossain_icligc.png" alt="Monir-Hossain" /> 
+</div>
 
+###
 
-### Things I code with:
-<p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="TailwindCss" src="https://img.shields.io/badge/-TailwindCss-E34F26?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-E34F26?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="MaterialUi" src="https://img.shields.io/badge/-MaterialUi-E34F26?style=flat-square&logo=mui&logoColor=white" />
+<h2 align="left">Tools & Technologies</h2>
 
-   <img alt="javascript" src="https://img.shields.io/badge/-javaScript-007ACC?style=flat-square&logo=javascript&logoColor=yellow" />
-   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+###
 
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="nextjs" src="https://img.shields.io/badge/-Nextjs-764ABC?style=flat-square&logo=nextjs&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-
-   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-   <img alt="Expressjs" src="https://img.shields.io/badge/-Expressjs-43853d?style=flat-square&logo=Express.js&logoColor=white" />
-   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-   <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-13aa52?style=flat-square&logo=mongoose&logoColor=white" />
-   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-13aa52?style=flat-square&logo=PostgreSQL&logoColor=white" />
-   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-13aa52?style=flat-square&logo=Prisma&logoColor=white" />
-   <img alt="JWT" src="https://img.shields.io/badge/-JWT-13aa52?style=flat-square&logo=JWT&logoColor=white" />
-   <img alt="Puppeteer" src="https://img.shields.io/badge/-Puppeteer-13aa52?style=flat-square&logo=Puppeteer&logoColor=white" />
-   <img alt="firebase" src="https://img.shields.io/badge/-Firebase-F05032?style=flat-square&logo=firebase&logoColor=white" />
-   <img alt="socket" src="https://img.shields.io/badge/-Socket-F05032?style=flat-square&logo=socket&logoColor=white" />
-   <img alt="Postman" src="https://img.shields.io/badge/-Postman-F05032?style=flat-square&logo=postman&logoColor=white" />
-   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F05032?style=flat-square&logo=figma&logoColor=white" />
-   <img alt="vercel" src="https://img.shields.io/badge/-Vercel-F05032?style=flat-square&logo=vercel&logoColor=white" />
-   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-   <img alt="AWS" src="https://img.shields.io/badge/-AWS-F05032?style=flat-square&logo=vercel&logoColor=white" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
+  <img width="15" />
   
- 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" />
+  <img width="15" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
+  <img width="15" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" alt="redux logo" />
+  <img width="15" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo" />
+  <img width="15" />
+  
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="tailwindcss logo" />
+  <img width="15" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo" />
+  <img width="15" />
+  
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo" />
+  <img width="15" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />
+  <img width="15" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo" />
+  <img width="15" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original-wordmark.svg" height="45" alt="mongoose logo" />
+  <img width="15" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
+  <img width="15" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="45" alt="prisma logo" />
+  <img width="15" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="redis logo" />
+  <img width="15" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" />
+  <img width="15" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="aws logo" />
+  <img width="15" />
+  
+</div>
+
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=monir6163&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 
-## Previously, I worked remotely at a US-based company, **GoogaMania**, where I built full-stack applications using **Next.js**, **TypeScript**, **Node.js**, and **Express.js** 
-### Now, I am immediately available to be hired for fulltime or as per your project needs. Most of the time, I am available on [LinkedIn](https://linkedin.com/in/monirweb). Also, please have a look at my [resume](https://drive.google.com/file/d/16Tpb3dtuN6mYnlc0ehB0nWEog2wXn0L6/view) or visit my [portfolio](https://monirdev.vercel.app).
+<h2 align="left">Profile Stats 🏆</h2>
 
-### Send an email to <ins> monirhossain6163@gmail.com </ins> and I will reply you in a real quick.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monir6163&label=Profile%20views&color=0e75b6&style=flat" alt="monir6163 " height="28px"  />
-</p>
-
-
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
-
-- Completed 200+ free and paid projects for worldwide clients also Fiverr Marketplace.
-- Strong knowledge in responsive web development.
-- Strong hand on Javascript, Typescript, Reactjs, Nextjs, Expressjs, Mongoose, Prisma, PostgreSQL, MongoDb and Nodejs, NestJs.
-- Very much confident in raw css and in any trending css library like tailwind, bootstrap, mui, shadcn or whatever.
-- Have depth on implementing authentication and payment system for web apps.
-- Honest, friendly, professional and concern about deadline
-
-</br>
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monir6163&theme=react" alt="profile details" style="width: 100%;" />
+</div>
+<br />
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=monir6163&theme=react" alt="stats" style="width: 49%;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monir6163&theme=react&utcOffset=8" alt="productive time" style="width: 49%;" />
+</div>
