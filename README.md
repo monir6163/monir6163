@@ -1,78 +1,88 @@
+# Hi there 👋, I'm Monir Hossain
+
+🚀 ** Backend Focus Full-Stack Developer | React | Next.js | React Native | Nodejs | Express **  
+📍 Dhaka, Bangladesh
+
 <div align="center">
   <img src="https://res.cloudinary.com/ddxqljriw/image/upload/v1764047449/Monir_Hossain_icligc.png" alt="Monir-Hossain" /> 
 </div>
 
-###
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://monirdev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monirdev)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monir6163)
 
-<h2 align="left">Tools & Technologies</h2>
 
-###
+## 💡 About Me
+
+<!-- <h2>- 👨‍💻 Senior Software Developer at **Neovotech Limited**<h2/>   -->
+- 🛠️ 3+ years of experience in **React, Next.js, React Native, Node.js, MongoDB**  
+- ⚡ Built SaaS, booking systems, payment integrations, and AI-driven platforms  
+- 📱 Led teams for **web and mobile app** projects  
+- 🌱 Currently learning **DevOps (Docker, CI/CD, Kubernetes)**  
+- 🎯 Passionate about solving problems and building scalable products
+
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
-  <img width="15" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" />
-  <img width="15" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo" />
-  <img width="15" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" alt="redux logo" />
-  <img width="15" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo" />
-  <img width="15" />
-  
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="tailwindcss logo" />
-  <img width="15" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45" alt="firebase logo" />
-  <img width="15" />
-  
-  <img src="https://skillicons.dev/icons?i=express" height="45" alt="express logo" />
-  <img width="15" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo" />
-  <img width="15" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo" />
-  <img width="15" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original-wordmark.svg" height="45" alt="mongoose logo" />
-  <img width="15" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="postgresql logo" />
-  <img width="15" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="45" alt="prisma logo" />
-  <img width="15" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45" alt="redis logo" />
-  <img width="15" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="docker logo" />
-  <img width="15" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="aws logo" />
-  <img width="15" />
-  
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monir6163&theme=dark" height="163em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monir6163&theme=dark" height="163em" /> 
+  <br>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monir6163&theme=dark" height="160em" /> 
+  <br>
+<!--   <img src="https://streak-stats.demolab.com?user=mizanmahi&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="161em" /> -->
 </div>
 
-## :chart_with_upwards_trend: Current Stats
+## 🛠️ Tech Stack
 
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=monir6163&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00FFFF?style=flat)
 
-<h2 align="left">Profile Stats 🏆</h2>
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/React-61DBFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 
-<div align="center" style="display: flex; justify-content: center;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monir6163&theme=react" alt="profile details" style="width: 100%;" />
-</div>
-<br />
-<div align="center" style="display: flex; justify-content: center;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=monir6163&theme=react" alt="stats" style="width: 49%;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=monir6163&theme=react&utcOffset=8" alt="productive time" style="width: 49%;" />
-</div>
+**Backend & API:**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00FFFF?style=flat)
+
+**Database:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/Postgresql-005C84?style=flat&logo=mysql&logoColor=white)
+
+**Data Visualization:**  
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF5733?style=flat&logo=recharts&logoColor=white)
+
+**DevOps & Tools:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FCC624?style=flat&logo=linux&logoColor=black)
+
+
+## 🌱 Currently Learning
+
+![AWS](https://img.shields.io/badge/Aws-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+## 🌐 Let's Connect
+🌐 [Portfolio](https://monirdev.vercel.app)
+💼 [LinkedIn](https://linkedin.com/in/monirweb)  
+📧 **monirhossain6163@gmail.com**  
+
+✨ Always open to collaboration & exciting opportunities!
