@@ -14,7 +14,6 @@
 
 ## 💡 About Me
 
-<!-- <h2>- 👨‍💻 Senior Software Developer at **Neovotech Limited**<h2/>   -->
 - 🛠️ 3+ years of experience in **React, Next.js, React Native, Node.js, MongoDB**  
 - ⚡ Built SaaS, booking systems, payment integrations, and AI-driven platforms  
 - 📱 Led teams for **web and mobile app** projects  
