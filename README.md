@@ -1,6 +1,6 @@
 # Hi 👋, I'm Monir Hossain  
 
-Backend-Focused Full-Stack Developer with 1+ years of experience building scalable web and mobile applications using modern JavaScript technologies.
+Backend-Focused Full-Stack Developer with 3+ years of experience building scalable web and mobile applications using modern JavaScript technologies.
 
 📍 Dhaka, Bangladesh  
 🌐 Portfolio: https://dev-monir.vercel.app  
